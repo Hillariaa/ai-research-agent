@@ -11,6 +11,14 @@ The system performs real-time research by combining **web search tools with larg
 
 ---
 
+## Live API
+
+You can interact with the deployed API here:
+
+https://ai-research-agent.onrender.com/docs
+
+---
+
 # Overview
 
 This project demonstrates how to build a **tool-using AI agent architecture** that integrates:
