@@ -1,5 +1,10 @@
 # AI Research Agent
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-green)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agent-orange)
+![Docker](https://img.shields.io/badge/Docker-Container-blue)
+
 An **AI-powered research assistant** that autonomously searches the web and synthesizes structured insights using a **tool-using LLM agent built with LangGraph**.
 
 The system performs real-time research by combining **web search tools with large language model reasoning**, producing structured summaries, key insights, and cited sources.
